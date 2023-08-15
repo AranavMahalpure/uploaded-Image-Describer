@@ -41,3 +41,6 @@ background-size: cover;
      color:#777;
      margin-top: 15px;
 }
+#drop-area{
+     transform: scale(1.2,1.2);
+}
